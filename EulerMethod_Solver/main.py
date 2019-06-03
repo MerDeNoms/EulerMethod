@@ -1,4 +1,3 @@
-from __future__ import division
 import tkinter as tk
 from tkinter import ttk
 import numpy as np
